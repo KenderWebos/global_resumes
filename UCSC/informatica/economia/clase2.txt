@@ -28,3 +28,27 @@ ellos plantean modelos que se adapatan a la conducta humana
 basados en supuestos
 
 MODELOS -> SUPUESTOS -> SIMPLIFICAR REALIDADES COMPLEJAS
+
+Frontera de posibiidades de produccion
+salia una tabla X Y que a mayor X menor Y y viseversa
+
+luego salio una curva y su integral
+cuando tomas un punto x bajo la curva es alcanzable
+mientras que sobre la curva es inalcanzable
+
+COSTO DE OPORTUNIDAD (o costo economico)
+NADA ES GRATIS EN ESTE MUNDO.
+
+> produccion eficiente
+
+
+> intercambio
+
+
+COSTO / COSTO DE INVERSION ??
+es cuando escoges entre una u otra cosa en pos de un beneficio
+
+por producir PIZZAS dejo de lado la produccion de REFRESCOS
+
+COSTO REPRESENTATIVO -> interpolacion
+
