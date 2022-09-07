@@ -1,0 +1,71 @@
+Clase 1
+05 09 2022
+Catedra
+
+LAS CUENTAS Y SU TRATAMIENTO
+
+lenguaje para escribir transacciones
+activo pasivo patrimonio
+
+CUENTAS CONTABLES
+agrupan transacciones
+segun una clasificacion (caja)
+
+Caja, Banco (activo)
+Mercaderias
+Materias primas
+Muebles, Maquinarias
+Letras por cobrar
+letras por pagar (pasivo)
+
+Activo (corriente, no corriente) //esto es segun el tiempo corto o largo plazo
+
+Empresa -> plan_de_cuenta -> (Activo, Pasivo, Patrimonio, costos, gastos)
+
+> actividad economica y que agrupa una actividad economica
+Hecho economico
+
+-----
+
+Terminologia contable
+
+Ej: CAJA
+-----------------------------------------
+izquierdo (debe)   -   derecho (haber)
+-----------------------------------------
+(cargo)            -   (cargo)  
+(cargo)            -   (cargo)  
+-----------------------------------------
+Total Debito       -   Total Credito
+                 Saldo
+
+si debe > haber -> Saldo deudor
+si debe < haber -> Saldo acreedor
+
+Cuentas de activo VS Cuentas de pasivo
+             debe - haber
+              + - / - +
+
+los registros de movimientos tienen:
+una fecha
+agente valor <segun debe o haber>
+glosa (detalle de la transaccion)
+
+1. identificar las cuentas contables
+2. clasificarlas
+3. anotarlas
+
+ktip = se van agregando registros de movimientos sobre la empresa en una seccion llamada <libro> una a una con una fecha y respetando el principio de partida doble que es que cada ingreso tiene una salida equivalente
+entra dinero al banco, sale de un agente prestamista.
+
+luego todo se clasifica segun un agente economico como <caja, banco, mercaderia>
+
+hay veces que los registros se acumularan en el libro de ER estado resolutado
+
+hoy vimos un CICLO CONTABLE COMPLETO.
+
+
+
+
+
+
